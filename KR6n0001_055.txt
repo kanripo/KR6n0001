@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:56.374695
+#+DATE: 2015-08-30 20:54:14.573318
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6n0001_T_055-0601b> 
 #+PROPERTY: JUAN 55
 ¶
-
- 《瑜伽師地論》卷第五十五¶
+《瑜伽師地論》卷第五十五¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
-攝決擇分中五識身相應地意地之五
-3目以諸廣辨五蘊¶
+攝決擇分中五識身相應地意地之五¶
 
 如是已思擇色蘊。我次當說名所攝四無¶
 色蘊。隨所應建立相。如本地分立一心相。¶
@@ -346,7 +344,7 @@
 一切皆世俗有。¶
 
 云何彼成軟中上品。謂異熟生及威儀路不¶
-猛利故俱是軟品。諸工巧處性猛利故說¶
+猛利故得是軟品。諸工巧處性猛利故說¶
 名中品。當知變化性極猛利故是上品。又¶
 四種類各有差別。謂無色界異熟是軟品。色¶
 界異熟是中品。欲界異熟是上品。若坐若臥¶
