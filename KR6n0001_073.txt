@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:56.954237
+#+DATE: 2015-08-30 20:54:56.056034
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0001_T_073-0699c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 73
 ¶
 ¶
-
- 《瑜伽師地論》卷第七十三¶
+《瑜伽師地論》卷第七十三¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -211,7 +210,7 @@
 理當知亦爾。問為即於此言說隨眠正斷滅¶
 時。諸相除遣。為斷滅已後方除遣。答斷時。¶
 遣時。平等平等如秤兩頭低昂道理。又如¶
-畫像彩色壞時形相隨滅。亦如瞖等過患¶
+畫像彩色壞時形相隨滅。亦如醫等過患¶
 愈時髮毛輪等相亦隨遣。愈時遣時平等平¶
 等。此中道理當知亦爾。¶
 

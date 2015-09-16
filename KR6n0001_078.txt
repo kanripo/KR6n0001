@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:57.125415
+#+DATE: 2015-08-30 20:54:56.201814
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0001_T_078-0729a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 78
 ¶
 ¶
-
- 《瑜伽師地論》卷第七十八¶
+《瑜伽師地論》卷第七十八¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -224,7 +223,7 @@
 世尊。何因緣故宣說六種波羅蜜多如是次¶
 第。善男子。能為後後引發依故。謂諸菩薩
 <pb:KR6n0001_T_078-0731b>¶
-若於身財無所顧悋。便能受持清淨禁¶
+若於身財無所顧吝。便能受持清淨禁¶
 戒。為護禁戒便修忍辱。修忍辱已能發¶
 精進。發精進已能辦靜慮。具靜慮已便¶
 能獲得出世間慧。是故我說波羅蜜多如是¶
