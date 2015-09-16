@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:57.055396
+#+DATE: 2015-08-30 20:54:06.368295
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6n0001_T_076-0718a> 
 #+PROPERTY: JUAN 76
 ¶
-
- 《瑜伽師地論》卷第七十六¶
+《瑜伽師地論》卷第七十六¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -101,7 +100,7 @@
 勇猛精進。為因緣故。如理作意。無倒思¶
 惟。為因緣故。乃能通達。於此通達漸漸修¶
 集。乃至無上正等菩提方證圓滿。復次德本。¶
-如眩瞖人眼中所有眩瞖過患。遍計所執¶
+如眩瞖人眼中所有眩瞖瞖過患。遍計所執¶
 相當知亦爾。如眩瞖人眩瞖眾相。或髮¶
 毛輪蜂蠅苣蕂。或復青黃赤白等相差別¶
 現前。依他起相當知亦爾。如淨眼人遠離¶
