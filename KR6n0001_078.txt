@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:57.125415
+#+DATE: 2015-08-30 20:54:42.874348
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6n0001_T_078-0729a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 78
 ¶
 ¶
-
- 《瑜伽師地論》卷第七十八¶
+《瑜伽師地論》卷第七十八¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
