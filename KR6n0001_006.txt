@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:04.089781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_006-0303b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
@@ -27,9 +27,9 @@
 　邊無邊矯亂
 　計無因斷空¶
 　最勝淨吉祥
-　由十六異論
+　由十六異論」
 #+END_VERSE
-」
+
 <pb:KR6n0001_T_006-0303c>¶
 
 由十六種異論差別。顯不如理作意。應知¶

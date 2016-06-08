@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:04.820809
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_030-0448b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
@@ -26,9 +26,9 @@
 「　往慶問尋求
 　方安立護養¶
 　出離一境性
-　障淨修作意
+　障淨修作意」
 #+END_VERSE
-」
+
 <pb:KR6n0001_T_030-0448c>¶
 
 若有自愛補特伽羅初修業者。始修業時為¶

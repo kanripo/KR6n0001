@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:04.178593
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_009-0318a> 
 #+PROPERTY: JUAN 9
 ¶
@@ -314,9 +314,9 @@
 「　體門義差別
 　次第難釋詞¶
 　緣性分別緣
-　攝諸經為後
+　攝諸經為後」
 #+END_VERSE
-」¶
+¶
 
 云何緣起體。若略說由三種相建立緣起。¶
 謂從前際中際生。從中際後際生。中際生¶

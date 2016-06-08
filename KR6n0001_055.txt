@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:05.610201
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_055-0601b> 
 #+PROPERTY: JUAN 55
 ¶
@@ -122,9 +122,9 @@
 「　依處與自性
 　相應世俗等¶
 　軟等事差別
-　德失能所治
+　德失能所治」
 #+END_VERSE
-」¶
+¶
 
 問善法依處有幾種。答略說有六。一決定¶
 時。二止息時。三作業時。四世間清淨時。五出¶

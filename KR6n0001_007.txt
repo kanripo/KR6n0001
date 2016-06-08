@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:04.119893
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_007-0308c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
@@ -84,9 +84,9 @@
 「　功能無體性
 　攝不攝相違¶
 　有用及無用
-　為因成過失
+　為因成過失」
 #+END_VERSE
-」¶
+¶
 
 自在天等變化功能。為用業方便為因。為¶
 無因耶。若用業方便為因者。唯此功能¶

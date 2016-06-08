@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:04.349414
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_014-0348b> 
 #+PROPERTY: JUAN 14
 ¶
@@ -290,7 +290,7 @@
 二攝受方便。三引導方便。四修治方便。又有
 <pb:KR6n0001_T_014-0351b>¶
 四種。從業所生諸有情類。於彼彼趣生依¶
-止門。一由業及卵[穀-禾+卵]。二由業及胎膜。三由¶
+止門。一由業及卵㲉。二由業及胎膜。三由¶
 業及潤污。四唯由業。又彼彼處受生有情有¶
 四種死。一者由自故死。謂於戲忘意忿天¶
 中而受生者。二由他故死。謂於羯羅藍。頞¶

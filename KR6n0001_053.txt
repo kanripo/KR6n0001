@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:05.550865
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0001_T_053-0589b> ¶¶¶
 #+PROPERTY: JUAN 53
 ¶
@@ -400,9 +400,9 @@
 
 #+BEGIN_VERSE
 「　自性義差別
-　次第攝依止
+　次第攝依止」
 #+END_VERSE
-」¶
+¶
 
 問何等是色自性。答略有十一。謂眼等十色¶
 處及法處所攝色。又總有二。謂四大種及所¶
