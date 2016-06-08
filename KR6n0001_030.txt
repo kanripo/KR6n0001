@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:45.772926
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:35
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
@@ -26,9 +26,9 @@
 「　往慶問尋求
 　方安立護養¶
 　出離一境性
-　障淨修作意
+　障淨修作意」
 #+END_VERSE
-」
+
 <pb:KR6n0001_T_030-0448c>¶
 
 若有自愛補特伽羅初修業者。始修業時為¶
