@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:55.926320
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 41
 ¶
 
- 《瑜伽師地論》卷第四十一¶
+ 
+********* 2《瑜伽師地論》卷第四十一¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
