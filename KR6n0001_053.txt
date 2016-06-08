@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:14.512025
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:35
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
@@ -400,9 +400,9 @@
 
 #+BEGIN_VERSE
 「　自性義差別
-　次第攝依止
+　次第攝依止」
 #+END_VERSE
-」¶
+¶
 
 問何等是色自性。答略有十一。謂眼等十色¶
 處及法處所攝色。又總有二。謂四大種及所¶
