@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:55.633844
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0001_T_032-0459b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 《瑜伽師地論》卷第三十二¶
+《瑜伽師地論》卷第三十二¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -274,7 +273,7 @@
 非故故相續流轉。如前所說發起勝解。如¶
 是名為於內外受心法修循受心法觀。如¶
 是汝田依不淨觀正修加行增上力故。¶
-於四念住當得趣入。又汝應於念住加¶
+於四念住當得趣人。又汝應於念住加¶
 行時時修習勝奢摩他毘鉢舍那。汝於如是¶
 四念住中安住正念。隨依彼彼村邑聚落¶
 邊際而住。於心隨順趣向臨入所緣境界。¶

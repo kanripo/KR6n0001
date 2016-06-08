@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:54.739514
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0001_T_002-0284a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 《瑜伽師地論》卷第二¶
+《瑜伽師地論》卷第二¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -351,7 +350,7 @@
 稻因故。遂於其地復起攝受。由此緣已¶
 更相爭奪。不與取法從此而生。即由此緣¶
 立司契者。彼最初王名大等意。如是便有¶
-剎帝利眾婆羅門眾吠舍眾戍陀羅眾。出現¶
+剎帝利眾婆羅門眾吠舍眾戌陀羅眾。出現¶
 世間。漸次因緣如經廣說。又彼依止光明既¶
 滅。世間便有大黑闇生。日月星宿漸漸而起。¶
 其日輪量五十一踰繕那。當知月輪其量減¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:56.954237
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0001_T_073-0699c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 73
 ¶
 ¶
-
- 《瑜伽師地論》卷第七十三¶
+《瑜伽師地論》卷第七十三¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -24,9 +23,9 @@
 「　思擇自性取
 　薩迦有世間¶
 　真尋思實智
-　密意與次第
+　密意與次第」
 #+END_VERSE
-」¶
+¶
 
 問如是五事幾諦所攝。答相四安立諦攝。名¶
 一苦諦攝。分別三諦攝。除滅諦。真如四非安¶
@@ -368,9 +367,9 @@
 「　總舉別分別
 　緣差別依止¶
 　亦微細執著
-　如名等執性
+　如名等執性」
 #+END_VERSE
-」¶
+¶
 
 云何名為三種自性。一遍計所執自性。二依¶
 他起自性。三圓成實自性。云何遍計所執自
@@ -518,9 +517,9 @@
 　由真智清淨
 　說彼為真明¶
 　二執不相應
-　故號為無二
+　故號為無二」
 #+END_VERSE
-」¶
+¶
 
 又如異生於諸蘊中善知無我。雖觀蘊中¶
 所建立我但是假有。非不於彼我執隨轉。¶

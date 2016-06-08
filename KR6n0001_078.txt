@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:57.125415
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1579
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0001_T_078-0729a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 78
 ¶
 ¶
-
- 《瑜伽師地論》卷第七十八¶
+《瑜伽師地論》卷第七十八¶
 ¶
 彌勒菩薩說¶
 三藏法師玄奘奉　詔譯¶
@@ -468,9 +467,9 @@
 　如言於義妄分別
 　或有增益或損減¶
 　謂此二種互相違
-　愚癡意解成乖諍
+　愚癡意解成乖諍」
 #+END_VERSE
-」¶
+¶
 
 世尊。於是解深密法門中。此名何教。我當¶
 云何奉持。善男子。此名諸地波羅蜜多了義¶
@@ -686,9 +685,9 @@
 　若如實知如是者
 　乃能永斷麁重身¶
 　得無染淨無戲論
-　無為依止無加行
+　無為依止無加行」
 #+END_VERSE
-」¶
+¶
 
 爾時曼殊室利菩薩復白佛言。世尊。云何應¶
 知諸如來心生起之相。佛告曼殊室利菩
