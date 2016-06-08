@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:49.635876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:35
 #+TITLE: 瑜伽師地論
 #+PROPERTY: CBETA_ID T30n1579
 #+PROPERTY: ID KR6n0001
@@ -27,9 +27,9 @@
 　邊無邊矯亂
 　計無因斷空¶
 　最勝淨吉祥
-　由十六異論
+　由十六異論」
 #+END_VERSE
-」
+
 <pb:KR6n0001_T_006-0303c>¶
 
 由十六種異論差別。顯不如理作意。應知¶
